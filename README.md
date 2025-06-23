@@ -11,12 +11,11 @@ um projeto simples em java demonstrando os principais conceitos de programação
 ---
 
 ## estrutura do repositório
-/
+```
 ├── src/
-│ └── ExemploPOO.java ← todo o código-fonte
+│ └── ExemploPOO.java ← código
 └── README.md ← este arquivo
-
-
+```
 ---
 
 ## requisitos
